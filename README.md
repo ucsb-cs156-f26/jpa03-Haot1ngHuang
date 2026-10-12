@@ -1,6 +1,6 @@
 # jpa03-Haot1ngHuang
 
-Running at: <https://jpa03-haot1nghuang.dokku-04.cs.ucsb.edu/>
+Running at: <https://jpa03-haot1nghuang.dokku-04.cs.ucsb.edu>
 
 # Configuring GitHub Pages for the documentation
 
